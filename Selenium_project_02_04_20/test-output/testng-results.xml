@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Test Suite" duration-ms="24096" started-at="2020-04-02T13:16:11Z" finished-at="2020-04-02T13:16:36Z">
+    <groups>
+    </groups>
+    <test name="TestNG Test Group" duration-ms="24096" started-at="2020-04-02T13:16:11Z" finished-at="2020-04-02T13:16:36Z">
+      <class name="tests.NewTest1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:tests.NewTest1@3ada9e37]" name="beforetest" is-config="true" duration-ms="11983" started-at="2020-04-02T15:16:11Z" finished-at="2020-04-02T15:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="registeruser()[pri:0, instance:tests.NewTest1@3ada9e37]" name="registeruser" duration-ms="12094" started-at="2020-04-02T15:16:23Z" finished-at="2020-04-02T15:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeruser -->
+      </class> <!-- tests.NewTest1 -->
+    </test> <!-- TestNG Test Group -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
